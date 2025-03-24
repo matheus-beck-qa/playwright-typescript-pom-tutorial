@@ -4,6 +4,8 @@
 
 🚀 This repository contains test automation for the website Parabank Parasoft using **Playwright, TypeScript and Page Object Model (POM)**. 
 
+⚒️ CI/CD: Integration with GitHub Actions: https://github.com/matheus-beck-qa/playwright-typescript-pom-tutorial/actions/runs/14045362385
+
 In the video above, I'll show you:
 - How to automatically generate tests using Codegen.
 - How to create a reusable authentication setup.
